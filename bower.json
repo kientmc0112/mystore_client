@@ -1,0 +1,17 @@
+{
+  "name": "mystore_client",
+  "version": "1.0.0",
+  "authors": [
+    "Kien Tran <kientmc0112@gmail.com>"
+  ],
+  "description": "MyStore Client Display - Bower",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/kientmc0112/mystore_client.git",
+  "ignore": [
+    "README.md"
+  ]
+}
